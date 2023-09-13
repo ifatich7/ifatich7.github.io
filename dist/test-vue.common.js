@@ -79,7 +79,7 @@ if (typeof window !== 'undefined') {
 
 ;// CONCATENATED MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
 var external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject = require("vue");
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/App.vue?vue&type=template&id=e9c3ae90
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/App.vue?vue&type=template&id=9b96e464
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_MyButton = (0,external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject.resolveComponent)("MyButton");
@@ -87,7 +87,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     label: "test label"
   });
 }
-;// CONCATENATED MODULE: ./src/App.vue?vue&type=template&id=e9c3ae90
+;// CONCATENATED MODULE: ./src/App.vue?vue&type=template&id=9b96e464
 
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Button.vue?vue&type=template&id=dc47ad14
 
@@ -131,7 +131,7 @@ const __exports__ = /*#__PURE__*/(0,exportHelper/* default */.Z)(Buttonvue_type_
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/App.vue?vue&type=script&lang=js
 
 /* harmony default export */ var Appvue_type_script_lang_js = ({
-  name: 'App',
+  name: 'AppN',
   components: {
     MyButton: Button
   }
@@ -150,7 +150,7 @@ const App_exports_ = /*#__PURE__*/(0,exportHelper/* default */.Z)(Appvue_type_sc
 ;// CONCATENATED MODULE: ./src/main.js
 
 
-(0,external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject.createApp)(App).mount('#app');
+(0,external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject.createApp)(App).mount('#appNode');
 ;// CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib-no-default.js
 
 

@@ -6,7 +6,7 @@
 import MyButton from './components/Button.vue'
 
 export default {
-  name: 'App',
+  name: 'AppN',
   components: {
     MyButton
   }
